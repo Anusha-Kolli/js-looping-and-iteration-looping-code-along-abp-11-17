@@ -1,5 +1,4 @@
 // Code your solutions in this file
-let element =[];
 
 function printBadges(element){
 
